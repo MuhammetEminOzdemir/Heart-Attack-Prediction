@@ -10,17 +10,17 @@ Coronary artery disease (CAD) is the main cause of heart attack.
 
 
 What will you learn from this project?
-EDA
 
-Missing Value Analysis
+    <ul>
+        <li>EDA (Exploratory Data Analysis)</li>
+        <li>Missing Value Analysis</li>
+        <li>Categoric and Numeric Features</li>
+        <li>Standardization</li>
+        <li>Box Plot, Swarm Plot, Cat Plot, Correlation Plot Analysis</li>
+        <li>Outlier Detection</li>
+        <li>Modelling and Tuning Machine Learning Model</li>
+    </ul>
 
-Categoric and Numeric Features
 
-Standardization
 
-Box - Swarm - Cat - Correlation Plot Analysis
-
-Outlier Detection
-
-Modelling and Tuning Machine Learning Model
 
